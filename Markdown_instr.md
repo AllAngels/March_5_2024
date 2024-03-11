@@ -47,4 +47,3 @@
 
 ## Заключение
 
-[Khaski.jpg]: Khaski.jpg
